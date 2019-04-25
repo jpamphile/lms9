@@ -1,0 +1,141 @@
+1
+0
+096
+The Wealthy Barber
+Chilton, David
+1989
+000
+1
+0
+097
+The Great Gatsby
+Fitzgerald, F. Scott
+1925
+900
+1
+0
+098
+Hamlet
+Shakespeare, William
+1599
+950
+1
+0
+099
+There's A Wocket In My Pocket
+Seuss, Dr.
+1974
+050
+1
+0
+100
+The Chrysalids
+Wyndham, John
+1955
+100
+1
+0
+101
+Ender's Game
+Card, Orson Scott
+1985
+800
+1
+0
+102
+Dune
+Herbert, Frank
+1965
+150
+1
+0
+110
+Foundation
+Asimov, Isaac
+1951
+850
+1
+0
+111
+Hitch Hiker's Guide to the Galaxy
+Adams, Douglas
+1979
+200
+1
+0
+112
+1984
+Orwell, George
+1949
+750
+1
+1
+113
+Stranger in a Strange Land
+Heinlein, Robert A.
+1961
+300
+1
+1
+114
+Farenheit 451
+Bradbury, Ray
+1954
+250
+1
+1
+115
+2001:  A Space Odyssey
+Clarke, Arthur C.
+1968
+500
+1
+1
+116
+I, Robot
+Asimov, Isaac
+1950
+650
+1
+1
+117
+Starship Troopers
+Heinlein, Robert A.
+1959
+350
+1
+1
+118
+Do Androids Dream of Electric Sheep?
+Dick, Philip K.
+1968
+550
+1
+1
+119
+Neuromancer
+Gibson, William
+1984
+450
+1
+1
+120
+Ringworld
+Niven, Larry
+1970
+255
+1
+1
+121
+Rendezvous with Rama
+Clarke, Arthur C.
+1973
+800
+1
+1
+122
+Hyperion
+Simmons, Dan
+1989
+600
+0
